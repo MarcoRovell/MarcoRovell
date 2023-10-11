@@ -1,6 +1,6 @@
-I am a CS student studying at UCLA and pursuing a minor in Statistics.
+I am a CS student studying at UCLA and looking for future career opportunities in Software Engineering, Cyber Security, or Systems Engineering
 
-- I’m currently working on a web application
-- I’m currently learning software development
-
+- I’m currently taking Theory of Computation
+- I’m currently taking Computer Network Fundamentals
+ 
 You can reach me at mrovell@ucla.edu
